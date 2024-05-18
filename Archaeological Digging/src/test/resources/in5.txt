@@ -1,0 +1,71 @@
+30
+trom-bone
+finger-bone
+ankle-bone
+foot-bone
+toe-bone
+eye-bone
+tongue-bone
+spine-bone
+hip-bone
+shin-bone
+arm-bone
+hand-bone
+wrist-bone
+index-bone
+pinky-bone
+middle-bone
+shoulder-bone
+neck-bone
+ear-bone
+tooth-bone
+elbow-bone
+knee-bone
+head-bone
+nose-bone
+orbital-bone
+knuckle-bone
+nail-bone
+tail-bone
+thumb-bone
+back-bone
+finger-bone rests on middle-bone
+ankle-bone rests on head-bone
+ankle-bone rests on ear-bone
+toe-bone rests on hip-bone
+eye-bone rests on spine-bone
+eye-bone rests on thumb-bone
+tongue-bone rests on hip-bone
+spine-bone rests on tooth-bone
+spine-bone rests on nail-bone
+spine-bone rests on ear-bone
+arm-bone rests on back-bone
+hand-bone rests on tail-bone
+wrist-bone rests on tongue-bone
+wrist-bone rests on head-bone
+index-bone rests on tail-bone
+index-bone rests on shin-bone
+pinky-bone rests on head-bone
+pinky-bone rests on middle-bone
+pinky-bone rests on hip-bone
+pinky-bone rests on back-bone
+pinky-bone rests on index-bone
+pinky-bone rests on tail-bone
+shoulder-bone rests on head-bone
+neck-bone rests on knuckle-bone
+neck-bone rests on spine-bone
+neck-bone rests on tongue-bone
+neck-bone rests on thumb-bone
+neck-bone rests on knee-bone
+tooth-bone rests on nail-bone
+knee-bone rests on hip-bone
+knee-bone rests on finger-bone
+head-bone rests on shin-bone
+nose-bone rests on hip-bone
+nose-bone rests on arm-bone
+nose-bone rests on head-bone
+knuckle-bone rests on index-bone
+nail-bone rests on finger-bone
+tail-bone rests on nail-bone
+tail-bone rests on finger-bone
+thumb-bone rests on tail-bone

@@ -1,0 +1,13 @@
+hip-bone
+spine-bone
+ankle-bone
+foot-bone
+trom-bone
+tongue-bone
+shin-bone
+arm-bone
+hand-bone
+wrist-bone
+finger-bone
+eye-bone
+toe-bone

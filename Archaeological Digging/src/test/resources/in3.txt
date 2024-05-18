@@ -1,0 +1,29 @@
+13
+trom-bone
+finger-bone
+ankle-bone
+foot-bone
+toe-bone
+eye-bone
+tongue-bone
+spine-bone
+hip-bone
+shin-bone
+arm-bone
+hand-bone
+wrist-bone
+ankle-bone rests on foot-bone
+trom-bone rests on tongue-bone
+trom-bone rests on finger-bone
+ankle-bone rests on trom-bone
+hand-bone rests on wrist-bone
+shin-bone rests on wrist-bone
+shin-bone rests on arm-bone
+shin-bone rests on hand-bone
+foot-bone rests on eye-bone
+hip-bone rests on spine-bone
+eye-bone rests on toe-bone
+trom-bone rests on eye-bone
+tongue-bone rests on toe-bone
+tongue-bone rests on shin-bone
+spine-bone rests on tongue-bone

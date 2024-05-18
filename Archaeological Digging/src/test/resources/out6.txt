@@ -1,0 +1,5 @@
+ankle-bone
+finger-bone
+trom-bone
+toe-bone
+foot-bone

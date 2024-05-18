@@ -1,0 +1,7 @@
+3
+trom-bone
+finger-bone
+ankle-bone
+trom-bone rests on ankle-bone
+trom-bone rests on finger-bone
+ankle-bone rests on finger-bone

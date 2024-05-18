@@ -1,0 +1,198 @@
+50
+trom-bone
+finger-bone
+ankle-bone
+foot-bone
+toe-bone
+eye-bone
+tongue-bone
+spine-bone
+hip-bone
+shin-bone
+arm-bone
+hand-bone
+wrist-bone
+index-bone
+pinky-bone
+middle-bone
+shoulder-bone
+neck-bone
+ear-bone
+tooth-bone
+elbow-bone
+knee-bone
+head-bone
+nose-bone
+orbital-bone
+knuckle-bone
+nail-bone
+tail-bone
+thumb-bone
+back-bone
+molar-bone
+rib-bone
+heart-bone
+breast-bone
+liver-bone
+spline-bone
+galbladder-bone
+bladder-bone
+glute-bone
+calf-bone
+quad-bone
+bicep-bone
+tricep-bone
+tee-bone
+ham-bone
+dog-bone
+eyebrow-bone
+heel-bone
+funny-bone
+laughing-bone
+trom-bone rests on spine-bone
+trom-bone rests on liver-bone
+finger-bone rests on pinky-bone
+finger-bone rests on dog-bone
+finger-bone rests on knee-bone
+finger-bone rests on head-bone
+finger-bone rests on head-bone
+finger-bone rests on laughing-bone
+ankle-bone rests on tooth-bone
+ankle-bone rests on knuckle-bone
+ankle-bone rests on breast-bone
+foot-bone rests on toe-bone
+foot-bone rests on neck-bone
+foot-bone rests on tail-bone
+foot-bone rests on galbladder-bone
+foot-bone rests on tricep-bone
+toe-bone rests on neck-bone
+toe-bone rests on neck-bone
+toe-bone rests on tail-bone
+eye-bone rests on tee-bone
+tongue-bone rests on index-bone
+tongue-bone rests on index-bone
+tongue-bone rests on thumb-bone
+tongue-bone rests on thumb-bone
+spine-bone rests on bicep-bone
+spine-bone rests on ham-bone
+hip-bone rests on tooth-bone
+hip-bone rests on funny-bone
+shin-bone rests on shin-bone
+shin-bone rests on hand-bone
+shin-bone rests on molar-bone
+shin-bone rests on eyebrow-bone
+arm-bone rests on trom-bone
+arm-bone rests on spine-bone
+arm-bone rests on thumb-bone
+arm-bone rests on thumb-bone
+arm-bone rests on thumb-bone
+arm-bone rests on back-bone
+arm-bone rests on back-bone
+arm-bone rests on liver-bone
+arm-bone rests on bicep-bone
+hand-bone rests on knee-bone
+hand-bone rests on molar-bone
+wrist-bone rests on shin-bone
+wrist-bone rests on hand-bone
+wrist-bone rests on knee-bone
+wrist-bone rests on knee-bone
+wrist-bone rests on nail-bone
+index-bone rests on head-bone
+index-bone rests on nose-bone
+index-bone rests on heel-bone
+pinky-bone rests on hip-bone
+pinky-bone rests on knee-bone
+pinky-bone rests on funny-bone
+middle-bone rests on hip-bone
+middle-bone rests on liver-bone
+middle-bone rests on laughing-bone
+shoulder-bone rests on shin-bone
+neck-bone rests on elbow-bone
+neck-bone rests on orbital-bone
+neck-bone rests on glute-bone
+ear-bone rests on tongue-bone
+ear-bone rests on thumb-bone
+ear-bone rests on heart-bone
+ear-bone rests on tricep-bone
+tooth-bone rests on middle-bone
+tooth-bone rests on quad-bone
+elbow-bone rests on foot-bone
+elbow-bone rests on spline-bone
+elbow-bone rests on glute-bone
+elbow-bone rests on eyebrow-bone
+head-bone rests on tongue-bone
+nose-bone rests on hand-bone
+nose-bone rests on knee-bone
+nose-bone rests on head-bone
+orbital-bone rests on toe-bone
+orbital-bone rests on eye-bone
+orbital-bone rests on glute-bone
+orbital-bone rests on tee-bone
+knuckle-bone rests on ankle-bone
+knuckle-bone rests on liver-bone
+nail-bone rests on shin-bone
+nail-bone rests on wrist-bone
+nail-bone rests on shoulder-bone
+tail-bone rests on eye-bone
+tail-bone rests on orbital-bone
+tail-bone rests on heart-bone
+tail-bone rests on rib-bone
+tail-bone rests on tricep-bone
+thumb-bone rests on head-bone
+thumb-bone rests on back-bone
+thumb-bone rests on calf-bone
+thumb-bone rests on ham-bone
+back-bone rests on head-bone
+back-bone rests on laughing-bone
+molar-bone rests on nose-bone
+molar-bone rests on bladder-bone
+rib-bone rests on ear-bone
+rib-bone rests on heart-bone
+heart-bone rests on eye-bone
+heart-bone rests on tongue-bone
+heart-bone rests on index-bone
+heart-bone rests on bladder-bone
+heart-bone rests on heel-bone
+breast-bone rests on ankle-bone
+breast-bone rests on hip-bone
+breast-bone rests on tooth-bone
+liver-bone rests on ankle-bone
+liver-bone rests on tooth-bone
+liver-bone rests on quad-bone
+spline-bone rests on shin-bone
+spline-bone rests on bladder-bone
+spline-bone rests on eyebrow-bone
+galbladder-bone rests on elbow-bone
+galbladder-bone rests on tricep-bone
+bladder-bone rests on eye-bone
+bladder-bone rests on shin-bone
+bladder-bone rests on spline-bone
+bladder-bone rests on heel-bone
+bladder-bone rests on heel-bone
+glute-bone rests on spline-bone
+glute-bone rests on bladder-bone
+glute-bone rests on glute-bone
+calf-bone rests on ear-bone
+calf-bone rests on tricep-bone
+quad-bone rests on middle-bone
+bicep-bone rests on thumb-bone
+bicep-bone rests on ham-bone
+tricep-bone rests on rib-bone
+tee-bone rests on bladder-bone
+tee-bone rests on glute-bone
+ham-bone rests on calf-bone
+dog-bone rests on hip-bone
+dog-bone rests on pinky-bone
+dog-bone rests on pinky-bone
+dog-bone rests on middle-bone
+dog-bone rests on laughing-bone
+eyebrow-bone rests on shoulder-bone
+heel-bone rests on nose-bone
+heel-bone rests on molar-bone
+funny-bone rests on wrist-bone
+funny-bone rests on knee-bone
+funny-bone rests on breast-bone
+funny-bone rests on breast-bone
+laughing-bone rests on liver-bone
+laughing-bone rests on head-bone
+laughing-bone rests on laughing-bone
