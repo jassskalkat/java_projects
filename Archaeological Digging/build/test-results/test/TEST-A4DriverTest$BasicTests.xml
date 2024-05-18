@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Basic Tests" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-04T05:08:14" hostname="LAPTOP-UGOBMK9I" time="0.002">
+  <properties/>
+  <testcase name="Basic 1 Bone Test" classname="A4DriverTest$BasicTests" time="0.001"/>
+  <testcase name="Basic 1 rests on Test" classname="A4DriverTest$BasicTests" time="0.001"/>
+  <system-out><![CDATA[raw test output
+ankle-bone
+
+end of raw test output
+raw test output
+shin-bone
+ankle-bone
+
+end of raw test output
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

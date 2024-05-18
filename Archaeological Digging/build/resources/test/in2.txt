@@ -1,0 +1,4 @@
+2
+ankle-bone
+shin-bone
+shin-bone rests on ankle-bone

@@ -1,0 +1,16 @@
+5
+trom-bone
+finger-bone
+ankle-bone
+foot-bone
+toe-bone
+trom-bone rests on foot-bone
+trom-bone rests on toe-bone
+finger-bone rests on foot-bone
+finger-bone rests on toe-bone
+finger-bone rests on trom-bone
+ankle-bone rests on foot-bone
+ankle-bone rests on toe-bone
+ankle-bone rests on trom-bone
+ankle-bone rests on finger-bone
+toe-bone rests on foot-bone
